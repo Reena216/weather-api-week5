@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "Reena-Popat",
   "license": "MIT",
-  "description": "Weather-API",
+  "description": "week5-Weather-API",
   "type": "module",
   "engines": {
     "node": ">=18.12 <21"
